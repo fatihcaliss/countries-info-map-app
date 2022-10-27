@@ -1,4 +1,4 @@
-## :point_right: [Click here to see on browser](https://simpsons-app-five.vercel.app/)
+## :point_right: [Click here to see on browser](https://countries-info-map-app.vercel.app/)
 
 # Getting Started with Create React App
 
